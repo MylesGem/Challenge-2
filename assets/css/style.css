@@ -6,11 +6,12 @@
 /* hero background image */
 .bgimage {
   height:100vh;
-  background:url(/assets/images/Myles-Gemignani.jpg);
+  background-image:url(http://127.0.0.1:3000/assets/images/MylesGemignani.png);
   background-size:cover;
   position:relative;
-  ;
+  background-repeat: no-repeat;
 }
+
 /* text css above hero image*/
 .hero_title {
   font-size: 4.5rem;
