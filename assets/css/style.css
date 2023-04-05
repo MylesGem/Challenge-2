@@ -9,7 +9,7 @@
 /* hero background image */
 .bgimage {
   height:100vh;
-  background-image:url(http://127.0.0.1:3000/assets/images/MylesGemignani.png);
+  background-image:url(/assets/image/MylesGemignani.png);
   background-size:cover;
   position:relative;
   background-repeat: no-repeat;
